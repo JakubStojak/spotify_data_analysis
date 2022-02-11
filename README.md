@@ -1,4 +1,4 @@
-# spotify_data_analysis
+# Spotify Data Analysis
 Analysis of data taken from the official Spotify Api (the spotify_data.csv file), containing over 169k instances of the most popular songs on the platform 
 from 1928 to 2020, with various attributes. The goal of the process is to understand the basis on which people choose their 
 everyday music - what factors influence their decisions. 
